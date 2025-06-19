@@ -8,8 +8,8 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-ks-091b56242/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksvarun20044@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunks04)
-  [![Resume](https://img.shields.io/badge/Resume-Download-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://my-portfolio-delta-ebon-77.vercel.app/)
+  [![Resume](https://img.shields.io/badge/Resume-Download-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://my-portfolio-delta-ebon-77.vercel.app/pages/resume.html)
   
 </div>
 
