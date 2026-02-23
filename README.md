@@ -1,73 +1,138 @@
-# 👨‍💻 Varun K S | Software Engineer & Data Analytics Specialist
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Python+Expert;Data+Analytics+%26+Visualization+Specialist;Building+Scalable+Solutions;Passionate+About+Innovation" alt="Professional Headline" />
-</div>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-ks-091b56242/)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksvarun20044@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://my-portfolio-delta-ebon-77.vercel.app/)
-  [![Resume](https://img.shields.io/badge/Resume-Download-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://my-portfolio-delta-ebon-77.vercel.app/pages/resume.html)
-  
+# Varun K S
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+%7C+Systems+%7C+Full-Stack;C%2B%2B+%26+Python+Developer;Building+Things+That+Work" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-ks-091b56242/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksvarun20044@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-delta-ebon-77.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunks04)
+
 </div>
 
 ---
 
-## 🚀 **Professional Summary**
+## 👋 About Me
 
-**Experienced Software Engineer** specializing in **Python development** and **data analytics** with a proven track record of building scalable solutions. Currently maintaining a **7.87 CGPA** in Computer Science Engineering while delivering real-world projects.
+Backend-focused software engineer who builds real systems. I work primarily in **C++** and **Python**, with a strong foundation in data structures, algorithms, and system design. I care about clean architecture, efficient data handling, and writing code that scales.
 
-**🎯 Key Strengths:**
-- ✅ **1 year** of hands-on Python development experience
-- ✅ **Expert-level** data visualization and analytics capabilities  
-- ✅ **Full-stack development** skills with modern tech stacks
-- ✅ **Production-ready** projects with 1000+ lines of code
-- ✅ **Meta-certified** Database Engineer with industry recognition
+- 🎓 B.E. Computer Science @ **JSS Academy of Technical Education** *(2022–2026)*
+- 💼 Currently interning @ **Genesis** — enterprise SDLC & collaborative engineering
+- 🛒 Shipped a **commercial product** on Gumroad
+- 🧠 Strong DSA fundamentals in **C/C++**
+- 📍 Bangalore, India
 
 ---
 
-## 💼 **Core Competencies**
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Backend & APIs
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Frontend & Visualization
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 **Technical Excellence**
-```python
-class VarunKS:
-    def __init__(self):
-        self.role = "Software Engineer"
-        self.languages = ["Python", "Java", "C++", "C"]
-        self.specialization = "Data Analytics & Automation"
-        self.experience = "2+ years"
-        self.availability = "Immediate"
-    
-    def get_expertise(self):
-        return {
-            "backend": ["Python", "PostgreSQL", "MySQL"],
-            "frontend": ["React.js", "TypeScript", "Tailwind"],
-            "data_science": ["Pandas", "NumPy", "Matplotlib"],
-            "tools": ["Git", "Linux", "Tableau", "VS Code"]
-        }
-```
+### 🔍 CrossBench
+**C++ · WinHTTP · Chart.js · Tailwind CSS**
+
+Web scraping & analytics engine that aggregates AI model benchmark data from multiple sources into a unified interactive leaderboard.
+
+- HTTP workflows via **WinHTTP**
+- JSON parsing with **nlohmann/json**
+- Interactive dashboard with **Chart.js**
+- Persistent data serialization with error handling
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 **Business Impact**
-- **🎯 Project Success Rate:** 100%
-- **⚡ Code Quality:** Production-ready
-- **📈 Data Insights:** Actionable analytics
-- **🔄 Automation:** Streamlined workflows
-- **👥 Collaboration:** Cross-functional teams
-- **🚀 Delivery:** On-time project completion
+### 🧘 Smara AI
+**Python · Flask · OpenAI API · REST**
 
-### 🏆 **Certifications**
-- **Meta Database Engineer** (2025)
-- **Python Pro Bootcamp** (2025)
-- **Data Structures & Algorithms** (2024)
+Digital diary and mindfulness assistant with AI-powered reflections and journaling.
+
+- RESTful backend with **Flask**
+- Context-aware **prompt engineering**
+- Secure auth + encrypted local storage
+- Sentiment analysis & wellness insights
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧹 MediaCleaner
+**Python · Streamlit · OpenCV · Perceptual Hashing**
+
+Privacy-focused media deduplication tool — finds and removes duplicate images/videos across large directories.
+
+- Perceptual hashing for duplicate detection
+- Memory-efficient batch processing pipelines
+- Packaged as **standalone `.exe`** — zero installation
+- 🛒 **Listed as a commercial product on Gumroad**
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Placement Management System
+**React · TypeScript · PostgreSQL · REST API**
+
+Multi-role platform for students, recruiters, and administrators.
+
+- Normalized relational schema design
+- **Role-based access control**
+- Real-time application tracking
+- Automated email notifications & analytics dashboards
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
 
 </td>
 </tr>
@@ -75,157 +140,64 @@ class VarunKS:
 
 ---
 
-## 🌟 **Featured Projects - Production Ready**
-
-### 🏢 **Enterprise Placement Management System** `React.js` `PostgreSQL` `TypeScript`
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://github.com/18vikastg/portal-for-placement) [![Code](https://img.shields.io/badge/View-Code-blue?style=flat-square)](https://github.com/18vikastg/portal-for-placement)
-
-**Business Problem Solved:** Streamlined college placement process reducing manual work by 80%
-
-**Key Achievements:**
-- 🎯 **Role-based authentication** for 500+ users (students, faculty, admin)
-- 📊 **Real-time dashboard** with placement statistics and analytics
-- 🔔 **Automated notification system** for job postings and updates
-- 📈 **Alumni network integration** improving placement rates by 35%
-
-**Technical Highlights:** Full-stack development, Database optimization, RESTful APIs
-
----
-
-### 📈 **AI-Powered Trading Bot with Live Market Analysis** `Python` `APIs` `ML`
-[![Live Alerts](https://img.shields.io/badge/Live-Alerts-green?style=flat-square)](https://github.com/varunks04/Trading-Bot) [![Technical Analysis](https://img.shields.io/badge/Technical-Analysis-orange?style=flat-square)](https://github.com/varunks04/Trading-Bot)
-
-**Business Problem Solved:** Automated trading decisions with 85% accuracy in market predictions
-
-**Key Achievements:**
-- 🤖 **Real-time market analysis** using Yahoo Finance API
-- 📊 **Advanced technical indicators** (RSI, MACD, Moving Averages)
-- 📱 **Telegram integration** for instant buy/sell alerts
-- 📈 **Data visualization** with interactive charts and trend analysis
-
-**Technical Highlights:** API Integration, Data Processing, Automation, Real-time Systems
-
----
-
-## 📊 **GitHub Performance Analytics**
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=varunks04&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunks04&theme=github-dark-blue&hide_border=true" height="180"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=varunks04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunks04&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunks04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="200"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunks04&theme=github-compact&hide_border=true&area=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunks04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunks04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
 
-## 🛠️ **Technology Stack**
+## 🧠 Problem Solving & DSA
 
-<div align="center">
-
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React.js-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Data Science & Analytics** 
-![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-11557c?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### **Databases & DevOps**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Proficient-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+- Strong fundamentals in **Data Structures & Algorithms** (C/C++)
+- Topics: Arrays, Trees, Graphs, Dynamic Programming, Recursion
+- Certified via Udemy — *Mastering DSA in C/C++* (2024)
+- Focus on writing clean, efficient solutions — not just passing test cases
 
 ---
 
-## 📚 **Education & Professional Development**
+## 🏅 Certifications
 
-<table>
-<tr>
-<td width="60%">
-
-### 🎓 **Academic Excellence**
-**Bachelor of Engineering - Computer Science**  
-*JSS Academy of Technical Education* | **CGPA: 7.87/10** | *2022-2026*
-
-**Relevant Coursework:**
-- Data Structures & Algorithms
-- Database Management Systems  
-- Software Engineering Principles
-- Object-Oriented Programming
-
-</td>
-<td width="40%">
-
-### 🏆 **Industry Certifications**
-- **Meta Database Engineer Professional**
-- **Python Developer Certification** 
-- **Advanced Data Structures & Algorithms**
-
-**Continuous Learning:**
-- 100+ hours of coding practice
-- 50+ projects completed
-- Active in tech communities
-
-</td>
-</tr>
-</table>
+| Certification | Issuer | Year |
+|---|---|---|
+| Meta Database Engineer Professional | Meta / Coursera | 2025 |
+| 100 Days of Code: Python Pro Bootcamp | Udemy | 2025 |
+| Mastering Data Structures & Algorithms (C/C++) | Udemy | 2024 |
 
 ---
 
-## 🌟 **Let's Connect & Collaborate**
+## 🔭 Currently Exploring
 
-<div align="center">
-
-### 🎯 **Open to Opportunities in:**
-**Software Engineering** | **Data Analytics** | **Backend Development** | **Python Development**
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**💼 Professional Network**  
-[LinkedIn Profile](https://www.linkedin.com/in/varun-ks-091b56242/)
-
-</td>
-<td align="center" width="50%">
-
-**📍 Based in**  
-Bangalore, India
-
-</td>
-</tr>
-</table>
-
-### 💡 **What I Bring to Your Team**
-```
-✅ Strong technical foundation    ✅ Proven project delivery      ✅ Modern tech stack expertise
-✅ Data-driven problem solving   ✅ Scalable solution design     ✅ Collaborative team player
-```
-
-</div>
+- System design patterns for scalable backend services
+- Distributed systems concepts and architecture
+- Production deployment & containerization workflows
+- Enterprise SDLC practices @ Genesis internship
 
 ---
 
+## 📬 Let's Connect
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=varunks04&label=Profile%20Views&color=00D4FF&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/varunks04?label=Followers&style=for-the-badge&color=00D4FF)
-![Stars](https://img.shields.io/github/stars/varunks04?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00D4FF)
+| Platform | Link |
+|---|---|
+| 📧 Email | [ksvarun20044@gmail.com](mailto:ksvarun20044@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/varun-ks-091b56242](https://www.linkedin.com/in/varun-ks-091b56242/) |
+| 🐙 GitHub | [github.com/varunks04](https://github.com/varunks04) |
+| 🌐 Portfolio | [my-portfolio-delta-ebon-77.vercel.app](https://my-portfolio-delta-ebon-77.vercel.app/) |
 
-**⭐ "Building scalable solutions that drive business impact" ⭐**
+<br/>
 
-*Last updated: June 2025*
+![Visitor Count](https://komarev.com/ghpvc/?username=varunks04&label=Profile+Views&color=6E40C9&style=for-the-badge)
 
 </div>
