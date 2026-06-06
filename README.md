@@ -20,11 +20,11 @@
 
 ## ⚡ Highlights
 
-> **Lead Software Engineering Intern** — Genesis Training & Consulting Services *(directed 11-member engineering team)*
+> **Lead Software Engineering Intern** — Genesis Training & Consulting Services (led an 11-member engineering team, coordinated development workflows, and drove project execution)
 
 > **Open-Source Maintainer** — [AlgoNest](https://pypi.org/project/algonest/) published on PyPI · `pip install algonest` · 14 algorithm domains · 50+ typed primitives
 
-> **Commercial Software Creator** — [MediaCleaner](https://varunks04.gumroad.com/) released on Gumroad as a standalone desktop application
+> **Software Product Creator** — MediaCleaner Designed, developed, and launched a standalone desktop application distributed commercially as a Windows .exe
 
 > **Certified** — Meta Database Engineer Professional Certificate · 100 Days of Code Python · Mastering DSA in C/C++
 
@@ -133,7 +133,6 @@ Contributed to C++ engineering projects involving data processing pipelines, str
 
 **Outcome:** Commercially released on Gumroad — a shipped product with real users.
 
-[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=flat-square&logo=gumroad&logoColor=black)](https://varunks04.gumroad.com/)
 [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
 
 </td>
@@ -230,22 +229,6 @@ Contributed to C++ engineering projects involving data processing pipelines, str
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=varunks04&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunks04&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</td>
-</tr>
-</table>
-</div>
-
----
 
 ## 🏅 Certifications
 
