@@ -1,138 +1,228 @@
 <div align="center">
 
-# Varun K S
+<h1>Varun K S</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+%7C+Systems+%7C+Full-Stack;C%2B%2B+%26+Python+Developer;Building+Things+That+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=520&lines=Python+Backend+Engineer;Open+Source+Maintainer+%E2%80%94+AlgoNest+on+PyPI;AI+Integration+%26+LLM+Applications;Building+Software+That+Ships" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-ks-091b56242/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksvarun20044@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-delta-ebon-77.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunks04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-ks-091b56242/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ksvarun20044@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-delta-ebon-77.vercel.app/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
 
 </div>
 
 ---
 
-## 👋 About Me
+## ⚡ Highlights
 
-Backend-focused software engineer who builds real systems. I work primarily in **C++** and **Python**, with a strong foundation in data structures, algorithms, and system design. I care about clean architecture, efficient data handling, and writing code that scales.
+> **Lead Software Engineering Intern** — Genesis Training & Consulting Services *(directed 11-member engineering team)*
 
-- 🎓 B.E. Computer Science @ **JSS Academy of Technical Education** *(2022–2026)*
-- 💼 Currently interning @ **Genesis** — enterprise SDLC & collaborative engineering
-- 🛒 Shipped a **commercial product** on Gumroad
-- 🧠 Strong DSA fundamentals in **C/C++**
-- 📍 Bangalore, India
+> **Open-Source Maintainer** — [AlgoNest](https://pypi.org/project/algonest/) published on PyPI · `pip install algonest` · 14 algorithm domains · 50+ typed primitives
 
----
+> **Commercial Software Creator** — [MediaCleaner](https://varunks04.gumroad.com/) released on Gumroad as a standalone desktop application
 
-## 🛠️ Tech Stack
+> **Certified** — Meta Database Engineer Professional Certificate · 100 Days of Code Python · Mastering DSA in C/C++
 
-<div align="center">
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Backend & APIs
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Frontend & Visualization
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+> **Core Stack** — Python · C++ · Flask · FastAPI · PostgreSQL · OpenAI API · REST · pytest
 
 ---
 
-## 🚀 Featured Projects
+##  About Me
+
+I'm a backend-focused software engineer based in Bengaluru, India — graduating B.E. Computer Science from JSS Academy of Technical Education in July 2026.
+
+I build systems that ship: an open-source Python library on PyPI, a commercial media tool on Gumroad, and an LLM-integrated Flask platform. At Genesis, I led an 11-member engineering team delivering an AI-first recommendation platform — owning architecture, sprint planning, and engineering standards end-to-end.
+
+My work sits at the intersection of **Python backend engineering**, **open-source software**, and **AI integration**. I care about clean API design, reproducible builds, and software that solves real problems without unnecessary complexity.
+
+📍 Bengaluru, India &nbsp;|&nbsp; 🎓 B.E. CSE · 2022–2026 &nbsp;|&nbsp; 📦 Open Source Contributor &nbsp;|&nbsp; 🛒 Commercial Product Builder
+
+---
+
+## 📦 Open Source — AlgoNest
+
+<table>
+<tr>
+<td>
+
+[![PyPI Version](https://img.shields.io/pypi/v/algonest?style=flat-square&color=3B82F6)](https://pypi.org/project/algonest/)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/algonest?style=flat-square&color=10B981)](https://pypi.org/project/algonest/)
+[![License](https://img.shields.io/github/license/varunks04/algonest?style=flat-square&color=F59E0B)](https://github.com/varunks04/algonest)
+
+**AlgoNest** is a production-grade Python library for algorithms and data structures — designed with typed, iterable-first APIs and real-world engineering practices.
+
+```bash
+pip install algonest
+```
+
+**What's inside:**
+- **14 algorithm domains** — search, sort, graphs, dynamic programming, heaps, greedy, and more
+- **50+ reusable typed primitives** with clean, consistent APIs
+- **pytest test suites** with full coverage per module
+- **Public documentation** and contribution guidelines
+- End-to-end Python packaging experience — from local dev to PyPI release
+
+This is my flagship open-source project. Built to be usable, not just demonstrable.
+
+[![View on PyPI](https://img.shields.io/badge/PyPI-algonest-3B82F6?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/algonest/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-algonest-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04/algonest)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+### Genesis Training and Consulting Services — *Lead Software Engineering Intern*
+`Feb 2026 – May 2026 · Bengaluru, India`
+
+Led an **11-member cross-functional engineering team** building an AI-first digital recommendation platform.
+
+- **Platform Architecture** — designed infrastructure setup, deployment strategy, scalable repo organization, and folder structures for long-term maintainability across parallel workstreams
+- **AI Pipeline Ownership** — directed Python-based AI pipeline architecture, REST API layer design, conversational search feature planning, and AI-driven product discovery workflows
+- **Engineering Standards** — established Git/GitHub collaboration practices, PR review workflows, and coding standards across the full team
+- **SDLC Leadership** — managed Spiral SDLC sprint planning, milestone coordination, and structured release cycles
+
+---
+
+### Cognifyz Technologies — *Software Development Intern*
+`Nov 2025 – Jan 2026`
+
+Contributed to C++ engineering projects involving data processing pipelines, structured data handling, and software development practices within a collaborative engineering environment.
+
+---
+
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 CrossBench
-**C++ · WinHTTP · Chart.js · Tailwind CSS**
+### 📦 [AlgoNest](https://pypi.org/project/algonest/) — Python DSA Toolkit
+`Python · PyPI · pytest · Open Source`
 
-Web scraping & analytics engine that aggregates AI model benchmark data from multiple sources into a unified interactive leaderboard.
+**Problem:** No lightweight, typed, installable Python library for algorithm primitives with clean APIs.
 
-- HTTP workflows via **WinHTTP**
-- JSON parsing with **nlohmann/json**
-- Interactive dashboard with **Chart.js**
-- Persistent data serialization with error handling
+**Solution:** Published a modular open-source library on PyPI spanning 14 domains — search, sort, graphs, dynamic programming, heaps, greedy, and more.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
+**Highlights:** Typed iterable-first APIs · pytest coverage · public docs · contribution guidelines · full packaging lifecycle
+
+**Outcome:** `pip install algonest` — production-grade open-source engineering from design to release.
+
+[![PyPI](https://img.shields.io/badge/PyPI-algonest-3B82F6?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/algonest/)
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04/algonest)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧘 Smara AI
-**Python · Flask · OpenAI API · REST**
+### 🧹 [MediaCleaner](https://varunks04.gumroad.com/) — Media Deduplication Engine
+`Python · OpenCV · Perceptual Hashing · Streamlit`
 
-Digital diary and mindfulness assistant with AI-powered reflections and journaling.
+**Problem:** Large media libraries accumulate duplicates — existing tools require complex setup or paid subscriptions.
 
-- RESTful backend with **Flask**
-- Context-aware **prompt engineering**
-- Secure auth + encrypted local storage
-- Sentiment analysis & wellness insights
+**Solution:** Built a perceptual hashing engine using OpenCV for memory-efficient duplicate detection across image and video directories.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
+**Highlights:** Batch processing pipelines · zero-install `.exe` packaging · cross-platform desktop distribution
+
+**Outcome:** Commercially released on Gumroad — a shipped product with real users.
+
+[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=flat-square&logo=gumroad&logoColor=black)](https://varunks04.gumroad.com/)
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧹 MediaCleaner
-**Python · Streamlit · OpenCV · Perceptual Hashing**
+### 🧘 [Smara AI](https://github.com/varunks04) — LLM-Powered Flask Platform
+`Python · Flask · OpenAI API · REST · Sentiment Analysis`
 
-Privacy-focused media deduplication tool — finds and removes duplicate images/videos across large directories.
+**Problem:** Digital journaling lacks personalized, context-aware insight and reflection support.
 
-- Perceptual hashing for duplicate detection
-- Memory-efficient batch processing pipelines
-- Packaged as **standalone `.exe`** — zero installation
-- 🛒 **Listed as a commercial product on Gumroad**
+**Solution:** Flask REST API backend integrating OpenAI API for LLM-driven insights, sentiment analysis, and AI-generated recommendations.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
+**Highlights:** Context-aware prompt engineering · encrypted local storage · role-based auth · structured API design
+
+**Outcome:** Full-stack AI-integrated platform demonstrating end-to-end LLM application architecture.
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Placement Management System
-**React · TypeScript · PostgreSQL · REST API**
+### 🎓 [Placement Management System](https://github.com/varunks04) — Enterprise Campus Platform
+`React · TypeScript · PostgreSQL · REST API · RBAC`
 
-Multi-role platform for students, recruiters, and administrators.
+**Problem:** Campus placement coordination involves fragmented manual workflows across students, recruiters, and coordinators.
 
-- Normalized relational schema design
-- **Role-based access control**
-- Real-time application tracking
-- Automated email notifications & analytics dashboards
+**Solution:** Normalized PostgreSQL relational schema with RBAC supporting concurrent multi-role workflows.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
+**Highlights:** Real-time tracking · automated notifications · analytics dashboards · three-role access model
+
+**Outcome:** Centralized visibility and reduced coordinator overhead through automated workflows.
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
+
+</td>
+</tr>
+</table>
+
+---
+
+##  Technical Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Backend & APIs**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Testing & Practices**
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**AI & LLM Engineering**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LLM_Integration-10B981?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat-square&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 </tr>
@@ -143,26 +233,17 @@ Multi-role platform for students, recruiters, and administrators.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunks04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunks04&theme=tokyonight&hide_border=true" height="170"/>
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=varunks04&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunks04&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</td>
+</tr>
+</table>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunks04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunks04&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
-## 🧠 Problem Solving & DSA
-
-- Strong fundamentals in **Data Structures & Algorithms** (C/C++)
-- Topics: Arrays, Trees, Graphs, Dynamic Programming, Recursion
-- Certified via Udemy — *Mastering DSA in C/C++* (2024)
-- Focus on writing clean, efficient solutions — not just passing test cases
 
 ---
 
@@ -170,34 +251,37 @@ Multi-role platform for students, recruiters, and administrators.
 
 | Certification | Issuer | Year |
 |---|---|---|
-| Meta Database Engineer Professional | Meta / Coursera | 2025 |
+| Meta Database Engineer Professional Certificate | Meta · Coursera | 2025 |
 | 100 Days of Code: Python Pro Bootcamp | Udemy | 2025 |
-| Mastering Data Structures & Algorithms (C/C++) | Udemy | 2024 |
+| Mastering Data Structures & Algorithms in C/C++ | Udemy | 2024 |
 
 ---
 
-## 🔭 Currently Exploring
+##  Currently Learning
 
-- System design patterns for scalable backend services
-- Distributed systems concepts and architecture
-- Production deployment & containerization workflows
-- Enterprise SDLC practices @ Genesis internship
+- **Python at depth** — CPython internals, bytecode, the GIL, memory model, interpreter lifecycle, and how the runtime actually executes code
+- **AI Engineering** — building production agentic systems, RAG pipelines, tool-use patterns, and LLM orchestration beyond basic API calls
+- **Scalable backend architecture** — distributed systems fundamentals, system design patterns, and high-throughput API design
+- **Production deployment** — containerization, CI/CD workflows, and engineering for reliability at scale
 
 ---
 
-## 📬 Let's Connect
+## 📬 Contact
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 📧 Email | [ksvarun20044@gmail.com](mailto:ksvarun20044@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/varun-ks-091b56242](https://www.linkedin.com/in/varun-ks-091b56242/) |
-| 🐙 GitHub | [github.com/varunks04](https://github.com/varunks04) |
-| 🌐 Portfolio | [my-portfolio-delta-ebon-77.vercel.app](https://my-portfolio-delta-ebon-77.vercel.app/) |
+[![Email](https://img.shields.io/badge/ksvarun20044@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ksvarun20044@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/varun--ks-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-ks-091b56242/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-delta-ebon-77.vercel.app/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/github.com/varunks04-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/varunks04)
 
-<br/>
+</div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=varunks04&label=Profile+Views&color=6E40C9&style=for-the-badge)
+---
 
+<div align="center">
+<sub>Python · C++ · Flask · FastAPI · PostgreSQL · OpenAI API · Open Source · PyPI · Bengaluru</sub>
 </div>
